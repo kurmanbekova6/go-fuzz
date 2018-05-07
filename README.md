@@ -1,5 +1,7 @@
 This is generate random inputs for tests
 
+Go-fuzz
+
 # go-fuzz: randomized testing for Go
 
 Go-fuzz is a coverage-guided [fuzzing solution](http://en.wikipedia.org/wiki/Fuzz_testing) for testing of Go packages.
